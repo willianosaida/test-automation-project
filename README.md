@@ -1,6 +1,8 @@
 # test-automation-project
 Repositório do desafio de automação
 
+Vídeo da automação em execução: https://youtu.be/-0y3cLft3a0
+
 Projeto de Automação de Testes com Selenium e NUnit
 
 Pré-requisitos
